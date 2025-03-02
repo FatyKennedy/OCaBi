@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCaBi - Portal Informativo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>OCaBi - Observatorio de Ciencias Biomédicas</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#nosotros">Sobre Nosotros</a></li>
+                <li><a href="#recursos">Recursos</a></li>
+                <li><a href="#eventos">Eventos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="inicio">
+        <h2>Bienvenidos a OCaBi</h2>
+        <p>Un espacio para la divulgación y el aprendizaje de las ciencias biomédicas.</p>
+    </section>
+    
+    <section id="nosotros">
+        <h2>Sobre Nosotros</h2>
+        <p>Información sobre la OCaBi, su misión y objetivos.</p>
+    </section>
+    
+    <section id="recursos">
+        <h2>Recursos</h2>
+        <p>Aquí encontrarás materiales de estudio, artículos y más.</p>
+    </section>
+    
+    <section id="eventos">
+        <h2>Eventos</h2>
+        <p>Próximos seminarios, talleres y conferencias.</p>
+    </section>
+    
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Escríbenos para más información.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 OCaBi - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
